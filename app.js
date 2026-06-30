@@ -3,7 +3,7 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-auth
 import { getFirestore } from "https://www.gstatic.com/firebasejs/12.2.1/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyCdiod71wRZbN3u33tJ4NqC-kswSJDE__A",
   authDomain: "student-earn-cash-d969a.firebaseapp.com",
   projectId: "student-earn-cash-d969a",
   storageBucket: "student-earn-cash-d969a.firebasestorage.app",
